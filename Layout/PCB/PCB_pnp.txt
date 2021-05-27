@@ -1,0 +1,65 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=PCB
+*Date=11:13:20
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;35.9756;-1.18109;0;Bottom;Via28
+2;;;23.2672;-26.581;90;Bottom;Onderdeel1
+3;;;20.7356;-1.18109;0;Bottom;Via25
+4;;;6.29165;-49.141;90;Bottom;TXT13
+5;;;32.0781;-8.25425;90;Bottom;TXT19
+6;;;16.4247;-49.2813;90;Bottom;TXT9
+7;;;11.3199;-49.2062;90;Bottom;TXT11
+8;;;25.659;-44.1004;90;Bottom;TXT4
+9;;;41.0558;-46.901;0;Bottom;Hole1
+10;;;2.9558;-8.8009;0;Bottom;Hole2
+11;;;28.2309;-44.0566;90;Bottom;TXT3
+12;220;THT;23.2757;-44.361;90;Bottom;R4
+13;;;30.6857;-44.0594;90;Bottom;TXT2
+14;;;13.8814;-3.89072;90;Bottom;TXT14
+15;;;30.8956;-1.18109;0;Bottom;Via27
+16;;;23.0067;-44.0625;90;Bottom;TXT1
+17;;;18.1956;-51.981;0;Bottom;Via12
+18;220;THT;20.7357;-8.80099;90;Bottom;R5
+19;;;42.8889;-8.29518;90;Bottom;TXT21
+20;;;13.1156;-1.18109;0;Bottom;Via14
+21;220;THT;25.8157;-44.361;90;Bottom;R3
+22;;;20.7356;-51.981;0;Bottom;Via13
+23;;;5.49562;-1.18109;0;Bottom;Via5
+24;;;20.6183;-8.35303;90;Bottom;TXT16
+25;220;THT;30.8957;-44.361;90;Bottom;R1
+26;;;25.8156;-51.981;0;Bottom;Via3
+27;;;25.8156;-1.18109;0;Bottom;Via26
+28;;;37.4338;-8.55482;90;Bottom;TXT15
+29;;;10.5757;-1.18099;0;Bottom;Via24
+30;;;8.76743;-49.2813;90;Bottom;TXT12
+31;;;27.1368;-8.32396;90;Bottom;TXT20
+32;;;15.6556;-1.18109;0;Bottom;Via6
+33;220;THT;28.3557;-44.361;90;Bottom;R2
+34;;;13.1156;-51.981;0;Bottom;Via10
+35;;;21.3913;-47.5129;90;Bottom;TXT7
+36;;;30.8956;-51.981;0;Bottom;Via1
+37;;;23.2756;-51.981;0;Bottom;Via4
+38;;;16.5442;-2.97773;90;Bottom;TXT5
+39;;;28.3556;-51.981;0;Bottom;Via2
+40;;;11.5967;-8.31507;90;Bottom;TXT22
+41;220;THT;35.9757;-8.80099;90;Bottom;R7
+42;;;6.52002;-3.63964;90;Bottom;TXT6
+43;;;19.019;-48.9934;90;Bottom;TXT8
+44;;;13.7988;-49.2493;90;Bottom;TXT10
+45;220;THT;41.0557;-8.80099;90;Bottom;R6
+46;;;8.03562;-51.981;0;Bottom;Via8
+47;;;15.6556;-51.981;0;Bottom;Via11
+48;;;5.49562;-51.981;0;Bottom;Via7
+49;;;41.0556;-1.18109;0;Bottom;Via29
+50;;;10.5756;-51.981;0;Bottom;Via9
